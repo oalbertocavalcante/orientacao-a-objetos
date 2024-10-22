@@ -1,4 +1,4 @@
-# Disciplina de Orientação a Objetos
+# Disciplina de Programação Orientação a Objetos
 
 - Universidade de Brasília
 - Faculdade de Engenharia (GAMA)
