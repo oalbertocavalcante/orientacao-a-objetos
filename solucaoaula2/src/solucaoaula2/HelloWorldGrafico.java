@@ -1,3 +1,9 @@
+
+/*
+Crie um programa "Hello World" em Java, capaz de ler seu nome e apresentar a seguinte mensagem:
+Olá <Fulano>, seja bem vindo! Apresente a mensagem em modo console e modo gráfico.
+*/
+
 package solucaoaula2;
 
 import javax.swing.JOptionPane;
